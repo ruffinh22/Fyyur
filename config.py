@@ -13,7 +13,7 @@ DEBUG = True
 
 
 # TODO IMPLEMENT DATABASE URL
-DB_URI = 'postgresql+psycopg2://admin:wI8I8Pl3DNrFNKFrEAYC9McJjEll3Iyx@dpg-cpoinq2j1k6c73a81if0-a.ohio-postgres.render.com/attendance_3r8v'
+DB_URI = 'postgresql+psycopg2://admin:wI8I8Pl3DNrFNKFrEAYC9McJjEll3Iyx@dpg-cpoinq2j1k6c73a81if0-a/attendance_3r8v'
 SQLALCHEMY_DATABASE_URI = DB_URI
 
 SQLALCHEMY_TRACK_MODIFICATIONS = False
